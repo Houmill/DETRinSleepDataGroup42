@@ -1,0 +1,15 @@
+cython
+submitit
+torch>=1.5.0
+torchvision>=0.6.0
+scipy
+onnx
+onnxruntime
+rich
+joblib
+scikit-learn
+librosa
+h5py
+tqdm
+pytorch_lightning
+mne
